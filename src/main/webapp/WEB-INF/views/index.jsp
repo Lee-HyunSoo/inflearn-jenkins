@@ -9,6 +9,6 @@
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.1</h3>
     <h1>poll SCM test</h1>
-    <h1>CI / CD test</h1>
+    <h1>CI / CD test -> add delete pod option</h1>
 </body>
 </html>
